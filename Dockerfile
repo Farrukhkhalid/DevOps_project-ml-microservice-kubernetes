@@ -14,7 +14,7 @@ COPY . app.py /app/
 RUN pip install --upgrade pip &&\
     pip install --trusted-host pypi.python.org -r requirements.txt
 ## Step 4:
-# Expose port 8000
+# Expose port 80
 
 EXPOSE 80
 ## Step 5:
