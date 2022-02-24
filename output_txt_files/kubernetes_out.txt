@@ -1,6 +1,10 @@
 pod/ml-microservice created
 NAME            READY   STATUS              RESTARTS   AGE
+<<<<<<< HEAD
 ml-microservice    0/1     ContainerCreating   0          1s
+=======
+ml-microservice   0/1     ContainerCreating   0          1s
+>>>>>>> 271fcb9eabb85911dd0f668dbab0f3ef3b61b029
 error: unable to forward port because pod is not running. Current status=Pending
 
 #running state:
