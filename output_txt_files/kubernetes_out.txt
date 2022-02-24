@@ -1,12 +1,12 @@
-pod/microservice created
+pod/ml-microservice created
 NAME            READY   STATUS              RESTARTS   AGE
-microservice   0/1     ContainerCreating   0          1s
+ml-microservice   0/1     ContainerCreating   0          1s
 error: unable to forward port because pod is not running. Current status=Pending
 
 #running state:
-Error from server (AlreadyExists): pods "microservice" already exists
+Error from server (AlreadyExists): pods "ml-microservice" already exists
 NAME            READY   STATUS    RESTARTS   AGE
-microservice   1/1     Running   0          3m15s
+ml-microservice   1/1     Running   0          3m15s
 Forwarding from 127.0.0.1:8000 -> 80
 Forwarding from [::1]:8000 -> 80
 
