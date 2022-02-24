@@ -8,7 +8,7 @@
 dockerpath="farrukhkhalid/ml-microservice"
 
 # Step 2:  
-docker login -u "farrukhkhalid" -p "FRkkingot8"
+docker login -u "farrukhkhalid" -p "********"
 docker tag ml-microservice $dockerpath
 
 
