@@ -2,8 +2,10 @@
 
 [![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://app.circleci.com/pipelines/github/Farrukhkhalid/DevOps_project-ml-microservice-kubernetes/2/workflows/bb0452dd-1a01-4155-8f92-24d5c541998d/jobs/2)
 
+<a href="https://hub.docker.com/r/farrukhkhalid/ml-microservice">
+<img src="https://opennebula.io/wp-content/uploads/2020/05/DockerHub.png" width="150"/>
 
-operationalize-a-Machine-Learning-Microservice-API
+# operationalize-a-Machine-Learning-Microservice-API
 
 # Udacity Project
 
